@@ -21,4 +21,4 @@ An output image with 500 x 133 characters used:
 <img src="./images/Kanagawa_OUT/Kanagawa_500x133_ascii.png" width="500"> 
 
 An output image with 2000 x 510 characters used:  
-<img src="./images/Kanagawa_OUT/Kanagawa_2000x510_ascii.png" width="500">
+<img src="./images/Kanagawa_OUT/Kanagawa_2000x510_ascii.png" width="1000">
